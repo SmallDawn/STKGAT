@@ -2,8 +2,6 @@
 
 **Deployment and implementation details for the STKGAT model.**
 
-## Status: Coming Soon
-
 ## Implementation Details & Deployment Configuration
 
 The model and experiments described in the paper were implemented and conducted with the following specifications:
